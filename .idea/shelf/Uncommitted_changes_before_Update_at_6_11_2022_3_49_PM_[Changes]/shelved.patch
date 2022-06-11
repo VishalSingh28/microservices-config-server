@@ -1,0 +1,13 @@
+Index: product-service.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>test.name=testVishal\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>ISO-8859-1
+===================================================================
+diff --git a/product-service.properties b/product-service.properties
+--- a/product-service.properties	(revision c0c76a1ad27d7f197248a676f302c7a3a052b020)
++++ b/product-service.properties	(date 1654942732473)
+@@ -1,1 +1,1 @@
+-test.name=testVishal
++test.name=testVishalS
